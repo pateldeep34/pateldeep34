@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deep Patel</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">DevOps and Open Source Enthusiast</h3>
 
 - 🔭 I’m currently working on **improving my tech skills**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Cloud Native projects**
-
-- 🤝 I’m looking for help with **Finding a Job**
-
-- 📝 I regularly write articles on [https://hashnode.com/@pateldeep34](https://hashnode.com/@pateldeep34)
 
 <p align="left">
 </p>
